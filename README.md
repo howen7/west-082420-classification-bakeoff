@@ -15,7 +15,7 @@ In this repo, just as before, you will find two csv files.
 This includes the features and target variables that you will use to train a predictive model
 
 2. `test_features.csv`
-This includes a testing set of data with the `defualt payment next month` column removed. You will make your final predictions on these observations and submit the predictions as a csv file.
+This includes a testing set of data with the `default payment next month` column removed. You will make your final predictions on these observations and submit the predictions as a csv file.
 
 ## Feature Descriptions
 
@@ -67,5 +67,5 @@ Save your predictions in a .csv file with the following pattern.
 Test results will be scored by F1-score. The group which submitted the predictions with the highest F1-score will be announced Monday morning. As a reward, they will receive a round of applause. 
 
 ## Share
-- After submission, push your repo with your work to your forked repo. In this way, your peers will be able to gain valuable wisdom from the different tactics employed.
+- After submission, push your repo with your work to your forked repo! In this way, your peers will be able to gain valuable wisdom from the different tactics employed!
 
