@@ -48,7 +48,7 @@ This includes a testing set of data with the `defualt payment next month` column
 ## Submissions
 Save your predictions in a .csv file with the following pattern. 
 - `credit_default_preds_yourteaminitials.csv`
-- For example, if Joel and Erin were a team, their submission would look like `credit_default_preds_jceh.csv`
+- For example, if Erin and Joel were a team, their submission would look like `credit_default_preds_ehjc.csv`
 
 - There are different ways to turn arrays to .csv's.  You can use any method you choose, but be sure your submission has no heading, no index and one column. Your submission must match the number of records in the `test_features.csv`. Don't worry about rounding.  A valid submission could look like below. 
 
