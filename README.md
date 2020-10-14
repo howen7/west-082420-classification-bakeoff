@@ -58,7 +58,7 @@ Save your predictions in a .csv file with the following pattern.
 1<br>
 ...
 
-***It is highly recommended that after saving your predictions to csv you import the csv file and ensure that the file only has 1 column***
+***It is highly recommended that after saving your predictions to csv you import the csv file and ensure that the file only has 1 column and the same number of rows as the testing features!***
 
 - You will be given **3 hours** to build your best model using the training data. There is a hard cuttoff at 3 hours. Any late submissions will not be considered. 
 - Slack your .csv file to the `seattle-chicago-ds-012720` channel before time is up. Any submissions after the 3 hour deadline will be evaluated, but not included in the judging.
