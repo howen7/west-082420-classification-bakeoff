@@ -1,4 +1,4 @@
-# Bake Off 2: This Time it's for Classification
+# Classification Bake Off
 
 ![Baking](https://media.giphy.com/media/xT0xePLIUyxnXso8co/giphy.gif)
 
@@ -48,7 +48,7 @@ This includes a testing set of data with the `defualt payment next month` column
 ## Submissions
 Save your predictions in a .csv file with the following pattern. 
 - `credit_default_preds_yourteaminitials.csv`
-- For example, if Brian and Erin were a team, their submission would look like `credit_default_preds_bmeh.csv`
+- For example, if Joel and Erin were a team, their submission would look like `credit_default_preds_jceh.csv`
 
 - There are different ways to turn arrays to .csv's.  You can use any method you choose, but be sure your submission has no heading, no index and one column. Your submission must match the number of records in the `test_features.csv`. Don't worry about rounding.  A valid submission could look like below. 
 
@@ -57,6 +57,8 @@ Save your predictions in a .csv file with the following pattern.
 1<br>
 1<br>
 ...
+
+***It is highly recommended, after saving your predictions to csv, that you import the csv file and ensure that the file only has 1 column***
 
 - You will be given **3 hours** to build your best model using the training data. There is a hard cuttoff at 3 hours. Any late submissions will not be considered. 
 - Slack your .csv file to the `seattle-chicago-ds-012720` channel before time is up. Any submissions after the 3 hour deadline will be evaluated, but not included in the judging.
