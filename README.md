@@ -61,7 +61,7 @@ Save your predictions in a .csv file with the following pattern.
 ***It is highly recommended that after saving your predictions to csv you import the csv file and ensure that the file only has 1 column and the same number of rows as the testing features!***
 
 - You will be given **3 hours** to build your best model using the training data. There is a hard cuttoff at 3 hours. Any late submissions will not be considered. 
-- Slack your .csv file to the `seattle-chicago-ds-012720` channel before time is up. Any submissions after the 3 hour deadline will be evaluated, but not included in the judging.
+- Submit your your .csv file to the `#west-ds-082420` channel as a comment to the message from the `Bakeoff Bot` before time is up. Any submissions after the 3 hour deadline will be evaluated, but not included in the judging.
 
 ## Metrics
 Test results will be scored by F1-score. The group which submitted the predictions with the highest F1-score will be announced Monday morning. As a reward, they will receive a round of applause. 
