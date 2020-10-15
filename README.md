@@ -49,7 +49,7 @@ Save your predictions as a .csv file with the following pattern.
 - `credit_default_preds_yourteaminitials.csv`
 - For example, if Erin and Joel were a team, their submission would look like `credit_default_preds_ehjc.csv`
 
-- There are different ways to turn arrays to as .csv file.  You can use any method you choose, but be sure your submission has no heading, no index and one column. Your submission must match the number of records in the `test_features.csv`. Don't worry about rounding.  A valid submission could look like below. 
+- There are different ways to turn arrays to as .csv file.  You can use any method you choose, but be sure your submission has no heading, no index and one column. Your submission must match the number of records in the `test_features.csv`. A valid submission could look like below. 
 
 0<br>
 0<br>
